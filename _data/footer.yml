@@ -9,28 +9,28 @@
     link: /contact/
 - links:
   - name: Login
-    link: /
+    link: https://sis.uls.edu.lb/
     new_window: true
   - name: Sign Up
-    link: /
+    link: https://lms.uls.edu.lb/
     new_window: true
   - name: Docs
-    link: /
+    link: https://learn.microsoft.com/en-us/power-bi/
     new_window: true
   - name: Status
-    link: /
+    link: https://dvprogram.state.gov/
     new_window: true
 - links:
   - name: Facebook
-    link: https://facebook.com/cloudcannon/
+    link: https://www.facebook.com/formationmiagebordeaux/
     new_window: true
     social_icon: Facebook
   - name: Twitter
-    link: https://twitter.com/cloudcannon/
+    link: https://twitter.com/mraliyazbek/
     social_icon: Twitter
     new_window: true
   - name: YouTube
-    link: https://youtube.com/cloudcannon/
+    link: https://www.youtube.com/@universitelasagesse-uls1416
     social_icon: YouTube
     new_window: true
   - name: RSS
