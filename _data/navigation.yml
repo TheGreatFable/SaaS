@@ -15,10 +15,10 @@
   new_window: false
   highlight: false
 - name: Login
-  link: /
+  link: https://sis.uls.edu.lb/
   new_window: true
   highlight: false
 - name: Sign Up
-  link: /
+  link: https://lms.uls.edu.lb/
   new_window: true
   highlight: true
